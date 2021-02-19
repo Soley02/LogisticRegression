@@ -1,6 +1,14 @@
 conda activate example-environment
 conda env export --from-history -f environment.yml
 
+libcxxabi=4.0.1
+
+appnope=0.1.0
+
+libgfortran=3.0.1
+
+libcxx=4.0.1
+
 pandas = 1.0.1
 numpy = 1.18.1
 matplotlib = 3.1.3
