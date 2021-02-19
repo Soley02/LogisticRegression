@@ -1,4 +1,4 @@
-name: my jupyter notebooks
+name: LogisticRegression
 channels:
   - conda forge
 dependencies:
