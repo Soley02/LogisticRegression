@@ -1,10 +1,8 @@
 # LogisticRegression
 
-# LineareRegression
-
 # How to get data into your Binder
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/Soley02/LogisticRegression/Logistische_Regression_Projekt_Loesung.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/Soley02/LogisticRegression/Logistische_Regression_Projekt_Loesung.ipynb/master)
 
 This example demonstrates a few ways to get data into your binder.
 
