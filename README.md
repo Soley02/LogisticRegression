@@ -1,6 +1,6 @@
 # LogisticRegression
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soley02/LogisticRegression/master?filepath=Logistische_Regression.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Soley02/LogisticRegression/HEAD)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
