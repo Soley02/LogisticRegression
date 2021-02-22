@@ -8,7 +8,18 @@ Sie können auch unter der folgenden Binder-URL dieses Notebook erzeugen:
 
 https://mybinder.org/v2/gh/Soley02/LogisticRegression/HEAD
 
-## Notes
+## Ausführung:
+
+Für die Auführung durch MyBinder, wurden die hier enthalten Dateien verwendet. 
+
+Die Daten welches in den ML-Beispielen verwendet wurden, sind ebenfalls direkt abrufbar im Code und müssen nicht zusätzlich heruntergeladen werden.
+
+1. Schritt: Auf Badge von MyBinder klicken oder per LINK
+2. Schritt: Warten bis alle erforderlichen Pakete/Module durch MyBinder hinzugefügt sind
+3. Schritt: MyBinder wurde erfolgreich durchgeführt und Jyupter Notebook (Nbviewer) öffnet sich
+4. Schritt: Der Code kann komplett ausgeführt werden 
+
+### Notes
 
 Die `requirements.txt` Datei listet alle Python-Bibliotheken auf, die für dieses Notebook erforderlich sind. Diese werden automatisch installiert:
 
@@ -22,12 +33,3 @@ In diesem Beispiel enthaltenen Bibliotheken sind:
 - matplotlib = 3.1.3
 - seaborn = 0.11.1
 - scikit-learn = 0.24.1
-
-Für die Auführung der jeweiligen Python Programme, wurden die hier enthalten Dateien verwendet. 
-
-Die Daten welches in den ML-Beispielen verwendet wurden, sind ebenfalls direkt abrufbar im Code und müssen nicht zusätzlich heruntergeladen werden.
-
-1. Schritt: Auf Badge von MyBinder klicken oder per LINK
-2. Schritt: Warten bis alle erforderlichen Pakete/Module durch MyBinder hinzugefügt sind
-3. Schritt: MyBinder wurde erfolgreich durchgeführt und Jyupter Notebook (Nbviewer) öffnet sich
-4. Schritt: Der Code kann komplett ausgeführt werden 
