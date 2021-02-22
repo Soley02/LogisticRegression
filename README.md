@@ -17,18 +17,17 @@ pip install -r requirements.txt
 ```
 
 In diesem Beispiel enthaltenen Bibliotheken sind:
-- pandas == 1.0.1
-- numpy == 1.18.1
-- matplotlib == 3.1.3
-- seaborn == 0.11.1
-- cufflinks == 0.17.3
-- scikit-learn==0.24.1
+- pandas = 1.0.1
+- numpy = 1.18.1
+- matplotlib = 3.1.3
+- seaborn = 0.11.1
+- scikit-learn = 0.24.1
 
 Für die Auführung der jeweiligen Python Programme, wurden die hier enthalten Dateien verwendet. 
 
 Die Daten welches in den ML-Beispielen verwendet wurden, sind ebenfalls direkt abrufbar im Code und müssen nicht zusätzlich heruntergeladen werden.
 
-1. Schritt: Auf Badge von MyBinder klicken
+1. Schritt: Auf Badge von MyBinder klicken oder per LINK
 2. Schritt: Warten bis alle erforderlichen Pakete/Module durch MyBinder hinzugefügt sind
 3. Schritt: MyBinder wurde erfolgreich durchgeführt und Jyupter Notebook (Nbviewer) öffnet sich
 4. Schritt: Der Code kann komplett ausgeführt werden 
