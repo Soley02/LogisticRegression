@@ -17,7 +17,7 @@ Die Daten welches in den ML-Beispielen verwendet wurden, sind ebenfalls direkt a
 1. Schritt: Auf Badge von MyBinder klicken oder per LINK
 2. Schritt: Warten bis alle erforderlichen Pakete/Module durch MyBinder hinzugefügt sind
 3. Schritt: MyBinder wurde erfolgreich durchgeführt und Jyupter Notebook (Nbviewer) öffnet sich
-4. Schritt: Der Code kann komplett ausgeführt werden 
+4. Schritt: Beides der Programme konnten ausgeführt werden (Logistische_Regression.ipynb & Logistische_Regression_2.ipynb)
 
 ### Notes
 
